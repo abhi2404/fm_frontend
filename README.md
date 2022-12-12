@@ -1,5 +1,5 @@
 # fm_frontend
-
+<a name="readme-top"></a>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,8 @@
     </li>
   </ol>
 </details>
+
+## Note: Kindly use firefox for testing and viewing the project as the cookies are not setting in other browser due to different site hosting.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
