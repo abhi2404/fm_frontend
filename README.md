@@ -52,11 +52,11 @@ _Below is an example of how to install and set up the app._
    ```sh
    git clone https://github.com/abhi2404/fm_frontend.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Run the dev server
+3. Run the dev server
    ```sh
    npm run dev
    ```
